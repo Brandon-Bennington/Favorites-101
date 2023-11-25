@@ -11,8 +11,8 @@ Technologies Used
 HTML5
 Learning Outcomes
 Understanding and implementing basic HTML tags and structure.
-Use of semantic HTML elements like <header>, <main>, <section>, and <footer>.
-Creation of ordered (<ol>) and unordered (<ul>) lists.
+Use of semantic HTML elements like header, main, section, and footer.
+Creation of ordered and unordered lists.
 Developing a foundational understanding of website structure.
 Future Enhancements
 Addition of CSS for styling.
